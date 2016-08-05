@@ -1,0 +1,8 @@
+1. Goal is to have a simple interface.
+2. Help the patient.
+3. Send to Doctor button
+4. Emergency Distress button - low sugar - configured
+5. Low / Normal / High information
+6. Diet Chart
+7. Internationalization - Tamil
+8. App can be used by a doctor or a patient.
