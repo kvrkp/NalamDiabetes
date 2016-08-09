@@ -11,6 +11,7 @@ var diabetesApp = angular.module('diabetesApp', [
 diabetesApp.config(['$routeProvider',
   function($routeProvider) {
 	  $routeProvider.when('/home', {templateUrl: 'partials/home.html', controller: 'homeCtrl'});
+	  $routeProvider.when('/register', {templateUrl: 'partials/register.html', controller: 'registerCtrl'});
 	  $routeProvider.otherwise({redirectTo: '/home'});
   }])
   .run(function($rootScope, validateCookie) {
