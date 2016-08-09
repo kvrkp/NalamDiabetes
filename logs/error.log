@@ -1,0 +1,2 @@
+[Mon Aug 08 15:49:16.849159 2016] [authz_core:error] [pid 25877] [client 127.0.0.1:56079] AH01630: client denied by server configuration: /Users/maheshnatarajan/git/NalamDiabetes/www/
+[Mon Aug 08 15:49:16.929626 2016] [authz_core:error] [pid 25877] [client 127.0.0.1:56079] AH01630: client denied by server configuration: /Users/maheshnatarajan/git/NalamDiabetes/www/favicon.ico, referer: http://nalamdiabetes.org/
